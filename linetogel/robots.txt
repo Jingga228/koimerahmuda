@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.redmondlabs.com/linetogel/sitemap.xml
